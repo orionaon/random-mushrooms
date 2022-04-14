@@ -1,1 +1,3 @@
-#random-mushrooms
+#Random Mushroom Photos from the Mushroom Observer API
+
+
